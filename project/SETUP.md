@@ -6,13 +6,13 @@ Créez un fichier `.env.local` dans le dossier `project/` avec les variables sui
 
 ```env
 # Firebase Configuration
-NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyBFuArOPczkYvXqsrSBFIDth73wbPJvdU0
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=capgeminismartprojectbuilder.firebaseapp.com
-NEXT_PUBLIC_FIREBASE_PROJECT_ID=capgeminismartprojectbuilder
-NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=capgeminismartprojectbuilder.firebasestorage.app
-NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=233198799797
-NEXT_PUBLIC_FIREBASE_APP_ID=1:233198799797:web:98eb23f215308ba65367fc
-NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID=G-RS75TE6SE4
+NEXT_PUBLIC_FIREBASE_API_KEY=your_firebase_api_key_here
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your-project.firebaseapp.com
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=your-project-id
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your-project.firebasestorage.app
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
+NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID=your_measurement_id
 
 # Anthropic Claude API Key (OBLIGATOIRE)
 CLAUDE_API_KEY=your_claude_api_key_here
