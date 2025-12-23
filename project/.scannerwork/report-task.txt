@@ -1,0 +1,7 @@
+organization=hassaneguedad
+projectKey=hassaneguedad_capworkspace-capgemini
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.76627
+dashboardUrl=https://sonarcloud.io/dashboard?id=hassaneguedad_capworkspace-capgemini
+ceTaskId=AZqTdTUtjGNwpGDnt5e_
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZqTdTUtjGNwpGDnt5e_
