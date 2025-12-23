@@ -9,6 +9,9 @@ Une plateforme intelligente de génération automatique de projets web alimenté
 
 ![Cap WorkSpace Banner](project/public/img/Capgemini_Logo.png)
 
+<img width="336" height="150" alt="emsi logo" src="https://github.com/user-attachments/assets/b5126805-a4f9-40f0-b578-a410fdaba8ee" />
+
+
 ## 📋 À propos
 
 **Cap WorkSpace** révolutionne la création de projets web en transformant une simple description en un projet complet et fonctionnel grâce à l'intelligence artificielle. La plateforme génère automatiquement l'architecture, le code source, la documentation technique et gère même le déploiement.
